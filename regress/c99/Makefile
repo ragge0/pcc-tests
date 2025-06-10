@@ -16,7 +16,7 @@ REGRESS_TARGETS = arith001 arith002 arith003 \
 	darray001 darray002 darray004 darray005 \
 	digraph001 \
 	enum001 \
-	fpoint001 \
+	fpoint001 fpoint002 \
 	func001 func002 func003 func004 func005 \
 	init001 init002 init003 init004 init005 init006 \
 	init007 init008 init009 init010 init011 init012 \
